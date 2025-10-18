@@ -98,7 +98,8 @@ sequenceDiagram
 - **웹훅 사용**: 현재 웹훅 호출은 주석 처리되어 있습니다. 필요 시 `send_webhook_response` 호출부의 주석을 해제하여 연동할 수 있습니다.
 
 ## 추가 도구
-`usage.py` 스크립트를 실행하면 서비스 계정으로 Google Drive 저장소 용량을 조회하고, 필요 시 파일 삭제 루틴을 커스터마이징할 수 있습니다. 운영 배치 작업이나 청소 스크립트로 활용할 수 있습니다.
+`usage.py` 스크립트를 실행하면 서비스 계정으로 Google Drive 저장소 용량을 조회하고, 필요 시 파일 삭제 루틴을 커스터마이징할 수 있습니다. 운영 배치 작업이나 청소 스크립트로 활용할 수 있습니다.  
+
 <img width="616" height="376" alt="1" src="https://github.com/user-attachments/assets/8e9a27bf-9788-43eb-adfd-e49e921a71b6" />  
 
 <img width="652" height="539" alt="2" src="https://github.com/user-attachments/assets/71b4f6ec-0ed8-4082-a784-d7ee5b2f600f" />
