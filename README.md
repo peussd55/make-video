@@ -3,7 +3,7 @@
 > 📌 **분류**: 비디오 처리 파이프라인 / Flask 기반 백엔드
 > - **URL** : "https://www.youtube.com/@TikkadakMusic"
 
-### 🛠️ 기술 스택 (Tech Stack)
+## 🛠️ 기술 스택 (Tech Stack)
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
