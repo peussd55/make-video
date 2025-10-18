@@ -2,6 +2,16 @@
 
 > 📌 **분류**: 비디오 처리 파이프라인 / Flask 기반 백엔드
 > - **URL** : "https://www.youtube.com/@TikkadakMusic"
+
+### 🛠️ 기술 스택 (Tech Stack)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white">
+  <img src="https://img.shields.io/badge/Google Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</p>
+
 ## 프로젝트 개요
 Make-Video는 단일 배경 영상(MP4)과 복수의 오디오 트랙(MP3)을 결합하여 완성된 브랜디드 영상을 생성하고, Google Drive에 업로드까지 자동화하는 Flask REST API입니다. 비동기 처리와 웹훅 통합을 염두에 둔 구조로 설계되어 있어, 외부 워크플로우에서 파일 생성 상태를 수신하거나 후속 처리를 이어갈 수 있습니다.
 
