@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
-## 👥 참여인원 (Members)
+## 👥 참여인원 (Member)
 <p>
   <img src="https://img.shields.io/badge/개발%20(Development)-1명-3776AB?style=flat-square&logo=github&logoColor=white">
 </p>
