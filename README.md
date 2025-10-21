@@ -1,7 +1,7 @@
 # Make-Video API 서비스
 
 > 📌 **분류**: 비디오 처리 파이프라인 / Flask 기반 백엔드
-> - **URL** : "https://www.youtube.com/@TikkadakMusic"
+> - ** 이 API를 이용한 서비스** : "https://www.youtube.com/@TikkadakMusic"
 
 ## 🛠️ 기술 스택 (Tech Stack)
 <p>
