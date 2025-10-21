@@ -12,6 +12,11 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
+## 👥 프로젝트 팀 (Project Team)
+<p>
+  <img src="https://img.shields.io/badge/개발%20(Development)-1명-3776AB?style=flat-square&logo=github&logoColor=white">
+</p>
+
 ## 프로젝트 개요
 Make-Video는 단일 배경 영상(MP4)과 복수의 오디오 트랙(MP3)을 결합하여 완성된 브랜디드 영상을 생성하고, Google Drive에 업로드까지 자동화하는 Flask REST API입니다. 비동기 처리와 웹훅 통합을 염두에 둔 구조로 설계되어 있어, 외부 워크플로우에서 파일 생성 상태를 수신하거나 후속 처리를 이어갈 수 있습니다.
 
